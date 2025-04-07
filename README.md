@@ -1,5 +1,3 @@
-Here's an updated and comprehensive README.md file for your GitHub repository that accurately reflects your project structure and dependencies:
-
 # Font Management System - Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
